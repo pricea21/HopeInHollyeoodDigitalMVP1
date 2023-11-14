@@ -14,6 +14,18 @@ Jeopardy Turorial: https://www.youtube.com/watch?v=g_Ff1SPhidg&list=PLECF6hIN7gW
 
 Sliding Puzzle: https://www.youtube.com/watch?v=IgBjJ-bexeo 
 
+11/13/13
+
+-Added Sound Effects
+
+-Updated level difficulty
+
+-Created new backgrounds
+
+-Fixed sprites that were too small
+
+-Created a character
+
 11/6/23
 
 -Designed Menu, Win Screen, Lose Screen,  and Map backgrounds adn buttons
